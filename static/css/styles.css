@@ -1054,10 +1054,9 @@ font-weight: normal;
 }
 .contenedorConsultas{
   border: 2px solid black;
-  width: max-content;
+  width: 100%;
   padding: 20px;
   margin: auto;
-  width: 95%
 
 }
 .contenedorConsultas thead td{
